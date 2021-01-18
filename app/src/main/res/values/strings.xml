@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="nota">Digite sua nota</string>
+</resources>
